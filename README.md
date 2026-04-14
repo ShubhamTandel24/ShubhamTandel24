@@ -32,9 +32,11 @@ Currently Exploring: Artificial Intelligence, Machine Learning, System Design
 
 ## Contact
 
--GitHub: https://github.com/ShubhamTandel24) 
--LinkedIn:(https://www.linkedin.com/in/shubham-tandel-541a35306/?skipRedirect=true)
--Email: shubham.tandel24@aiml.sce.edu.in
+-GitHub : https://github.com/ShubhamTandel24) 
+
+-LinkedIn : https://www.linkedin.com/in/shubham-tandel-541a35306/?skipRedirect=true
+
+-Email : shubham.tandel24@aiml.sce.edu.in
  
  
  Focused on building systems that are practical, scalable, and impactful.
